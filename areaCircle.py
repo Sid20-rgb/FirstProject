@@ -1,8 +1,8 @@
 r = int(input("Enter a radius:"))
 pi = 14.3
 
-area = pi*r**2
+a = pi*r**2
 
-print(area)
+print(a)
 
-print(f"The area of circle is {area}")
+print(f"The area of circle is {a}")
